@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nnocptnczz
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning about databases
+- 📫 matteoferr03@gmail.com
